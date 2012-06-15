@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>nasm</string>
+  <key>uuid</key>
+  <string>29fa8a60-20f1-4d96-866d-04cfd323c822</string>
+</dict>
+</plist>
